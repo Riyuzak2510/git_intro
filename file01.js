@@ -1,1 +1,4 @@
-console.log('Hello Wold')
+function greet(name) {
+    console.log('Knock Knock Knock' + name)
+}
+greet('Mayank')
